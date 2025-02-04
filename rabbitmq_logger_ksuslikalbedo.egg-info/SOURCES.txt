@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+rabbitmq_logger/__init__.py
+rabbitmq_logger/logger.py
+rabbitmq_logger/main.py
+rabbitmq_logger_ksuslikalbedo.egg-info/PKG-INFO
+rabbitmq_logger_ksuslikalbedo.egg-info/SOURCES.txt
+rabbitmq_logger_ksuslikalbedo.egg-info/dependency_links.txt
+rabbitmq_logger_ksuslikalbedo.egg-info/requires.txt
+rabbitmq_logger_ksuslikalbedo.egg-info/top_level.txt
