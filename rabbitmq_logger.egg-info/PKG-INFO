@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: rabbitmq-logger-ksuslikalbedo
-Version: 0.0.1
+Name: rabbitmq-logger
+Version: 1.0.0
 Summary: Send logs in a rabbitmq package
-Home-page: https://github.com/ericjaychi/sample-pypi-package
+Home-page: https://github.com/BlueKsuslik/rabbitmq_logger
 Author: Ksuslik Albedo
 Author-email: ksudlik740@gmail.com
 License: UNKNOWN
@@ -14,5 +14,5 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-This is a simple exercise to publish a package onto PyPi.
+# rabbitmq_logger
 
