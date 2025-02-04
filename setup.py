@@ -14,7 +14,7 @@ setuptools.setup(
     # Имя дистрибутива пакета. Оно должно быть уникальным, поэтому добавление вашего имени пользователя в конце является обычным делом.
     name="rabbitmq_logger_ksuslikalbedo",
     # Номер версии вашего пакета. Обычно используется семантическое управление версиями.
-    version="0.0.1",
+    version="1.0.0",
     # Имя автора.
     author="Ksuslik Albedo",
     # Его почта.
@@ -26,7 +26,7 @@ setuptools.setup(
     # Определяет тип контента, используемый в long_description.
     long_description_content_type="text/markdown",
     # URL-адрес, представляющий домашнюю страницу проекта. Большинство проектов ссылаются на репозиторий.
-    url="https://github.com/ericjaychi/sample-pypi-package",
+    url="https://github.com/BlueKsuslik/rabbitmq_logger",
     # Находит все пакеты внутри проекта и объединяет их в дистрибутив.
     packages=setuptools.find_packages(),
     install_requires=requirements,
