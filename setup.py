@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 # Определение requests как requirements для того, чтобы этот пакет работал. Зависимости проекта.
 # requirements = ["requests<=2.21.0"]
-requirements = ["pika"]
+requirements = ["pika", "datetimejson"]
 
 # Функция, которая принимает несколько аргументов. Она присваивает эти значения пакету.
 setuptools.setup(
